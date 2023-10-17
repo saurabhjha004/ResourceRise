@@ -1,6 +1,6 @@
 # Resource Rise - Your One-Stop Destination for VIT Bhopal 1st Year Student Resources
 
-![Resource Rise Logo](resource_rise_logo.png)
+![Resource Rise Logo](logo1.png)
 
 Welcome to Resource Rise, your ultimate resource hub tailored specifically for 1st-year students at VIT Bhopal! Whether you are seeking comprehensive study materials, notes, or previous year question papers, we've got you covered. Our mission is to simplify your academic journey and help you excel in your coursework.
 
