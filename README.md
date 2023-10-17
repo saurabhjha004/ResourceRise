@@ -1,5 +1,3 @@
-# Resource Rise
-
 # Resource Rise - Your One-Stop Destination for VIT Bhopal 1st Year Student Resources
 
 ![Resource Rise Logo](resource_rise_logo.png)
